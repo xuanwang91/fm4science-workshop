@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-# Foundation Models for Science Big Data Workshop
+# Foundation Models for Science Big Data
 
 Time: **Dec 15-18, 2024**
 
