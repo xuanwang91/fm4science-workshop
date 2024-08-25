@@ -15,11 +15,11 @@ title: BigData24 FM4Science Workshop
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/
 # some options: code-slash file-code gear tools lightblub book bookmark-star
-title-icon: code-slash
+title-icon:
 # description, keywords, and image for meta tags
 # these do not visibility appear on the pages, but used for SEO
-description: "Create a workshop website quick and easy!"
-keywords: "workshops, websites, gh-pages, jekyll"
+description: "Foundation Models for Science Big Data"
+keywords: "foundation models, science big data, workshop"
 # featured-image is added to metadata tags for social media sharing
 # use a relative path to image in this repository or full URL
 featured-image: "/images/uidaho-workshop.jpg"
@@ -27,13 +27,13 @@ featured-image: "/images/uidaho-workshop.jpg"
 search: true
 
 # author settings for cc-by, appears in the footer and credits
-author: evan will
+author: Xuan Wang
 # your github username for link [optional]
-github_username: evanwill
+github_username: xuanwang91
 # year or date published
-pub_year: 2021
+pub_year: 2024
 # location of code, the full url to your github repository
-source-code: https://github.com/evanwill/workshop-template-b
+source-code: https://github.com/xuanwang91/fm4science-workshop
 
 ##########
 # URL VARIABLES [optional!!]
