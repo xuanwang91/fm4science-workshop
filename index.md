@@ -9,7 +9,7 @@ Time: **Dec 15-18, 2024**
 
 Location: **Washington D.C., USA**
 
-{% include figure.html img="front-page.jpg" alt="intro image here" width="75%" %}
+{% include figure.html img="front-page.jpg" alt="intro image here" width="100%" %}
 
 
 ## Introduction
