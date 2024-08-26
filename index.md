@@ -5,11 +5,11 @@ layout: page
 
 # Foundation Models for Science Big Data
 
-{% include figure.html img="front-page.jpg" alt="intro image here" width="100%" %}
-
 Time: **Dec 15-18, 2024**
 
 Location: **Washington D.C., USA**
+
+{% include figure.html img="front-page.jpg" alt="intro image here" width="100%" %}
 
 ## Introduction
 The capabilities of foundation models for science big data span a wide spectrum, from the atomic level, where it solves partial differential equations for quantum systems, to the molecular level, predicting chemical or protein structures, and further extending to societal predictions like infectious disease outbreaks. However, there remain significant challenges to unlock the full potential of foundation models for scientific discovery, such as ensuring trustworthiness, achieving personalization, and adapting to multi-modal data representation. This workshop welcomes a wide range of contributions involving developing, analyzing, or applying foundation models for science big data spanning across various domains (e.g., biomedicine, chemistry, math, physics, material science, and geography) and various modalities (e.g., text, images, tables, graphs, and time series).
